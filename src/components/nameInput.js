@@ -8,9 +8,9 @@ export default function NameInput(props) {
     <fieldset>
       <legend>名稱</legend>
       <select onChange={handleChange}>
-        <NameOption name="AC0xRPFS001" />
-        <NameOption name="chocomint" />
-        <NameOption name="chocomint++" />
+        <NameOption name="龍龍ℒ𝑜𝓃𝑔" />
+        <NameOption name="龍龍" />
+        <NameOption name="一言不合就開咬" />
       </select>
     </fieldset>
   );
