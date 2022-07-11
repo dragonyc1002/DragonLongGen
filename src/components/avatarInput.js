@@ -8,9 +8,8 @@ export default function AvatarInput(props) {
     <fieldset>
         <legend>頭像</legend>
         <select onChange={handleChange}>
-          <option value="sena">聖奈</option>
-          <option value="diep">Diep.io</option>
-          <option value="chocomint">chocomint</option>
+          <option value="deep">寒風低頭(?</option>
+          <option value="dragonDog">炸彈龍犬</option>
         </select>
     </fieldset>
   );
